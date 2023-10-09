@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejandro De La Cruz</h1>
 <h3 align="center">An passionate aspiring Data Analyst from Texas, USA</h3>
+<img align="right" alt="Analytics" width=400 src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrodelacruz&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrodelacruz" /> </p>
 
