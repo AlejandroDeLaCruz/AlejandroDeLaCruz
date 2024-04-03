@@ -20,7 +20,7 @@
 <h2 class="heading-element" dir="auto">📫 Connect with Me</h2>
 
 <ul dir="auto">
-<li><a href="https://www.kellyjadams.com/" rel="nofollow">Website</a></li>
+<li><a href="https://alejandrodelacruz.carrd.co/" rel="nofollow">Website</a></li>
 <li><a href="https://www.linkedin.com/in/alejandrodelacruz0/" rel="nofollow">LinkedIn</a></li>
 <li><a href="mailto:delacruzalejandro572@gmail.com">Email</a></li>
 </ul>
