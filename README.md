@@ -30,6 +30,6 @@ SQL Course Queries
 
 <ul dir="auto">
 <li><a href="https://www.kellyjadams.com/" rel="nofollow">Website</a></li>
-<li><a href="https://www.kellyjadams.com/](https://www.linkedin.com/in/alejandrodelacruz0/)" rel="nofollow">LinkedIn</a></li>
+<li><a href="https://www.linkedin.com/in/alejandrodelacruz0/" rel="nofollow">LinkedIn</a></li>
 <li><a href="mailto:delacruzalejandro572@gmail.com">Email</a></li>
 </ul>
