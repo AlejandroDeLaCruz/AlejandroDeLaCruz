@@ -19,9 +19,12 @@ View my data vidualizations on Tableau Public.
 
 ⭐ Favorite Projects
 
-Weightlifting Project - This is an ongoing project where I analyze my own personal weightlifting data, focused on measuring key metrics like: weight; reps; sets; volume; and estimated 1 rep max. View my weightlifting-data repository.
-SQL Course Queries - Wrote all of the SQL queries in Luke Barousse's free SQL course.
-(Still in progress) Python Tutorial Code - Produced content (code) for Luke Barousse's free Python for Data Analytics course.
+Weightlifting Project
+- This is an ongoing project where I analyze my own personal weightlifting data, focused on measuring key metrics like: weight; reps; sets; volume; and estimated 1 rep max. View my weightlifting-data repository.
+
+SQL Course Queries
+- Wrote all of the SQL queries in Luke Barousse's free SQL course. (Still in progress) Python Tutorial Code - Produced content (code) for Luke Barousse's free Python for Data Analytics course.
+  
 📫 Connect with Me
 
 Website
