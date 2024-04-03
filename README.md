@@ -28,5 +28,5 @@ SQL Course Queries
   
 <h2 class="heading-element" dir="auto">📫 Connect with Me</h2>
 - <a href="https://www.kellyjadams.com/" rel="nofollow">Website</a>
-LinkedIn
-Email
+- <a href="https://www.kellyjadams.com/](https://www.linkedin.com/in/alejandrodelacruz0/)" rel="nofollow">LinkedIn</a> 
+- <a href="mailto:delacruzalejandro572@gmail.com">Email</a>
