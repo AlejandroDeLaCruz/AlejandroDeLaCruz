@@ -14,9 +14,9 @@
 
 <h2 class="heading-element" dir="auto">📚 Projects</h2>
 
-View my portfolio projects on my website.
-View my coding projects on Github.
-View my data vidualizations on Tableau Public.
+- View my portfolio projects on my website.
+- View my coding projects on Github.
+- View my data vidualizations on Tableau Public.
 
 
 
