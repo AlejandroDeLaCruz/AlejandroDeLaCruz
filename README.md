@@ -4,6 +4,12 @@
 
 - 📊 I'm currently looking for opportunities in data analytics
 - 📐 Degree in Mathematics specialized in Statistics
+- Hobbies outside of analytics:
+  <ol>
+    <li>Traveling</li>
+    <li></li>
+    <li></li>
+  </ol>
 
 <h2 class="heading-element" dir="auto">🛠 Skills</h2>
 
