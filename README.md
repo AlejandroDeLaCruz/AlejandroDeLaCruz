@@ -6,9 +6,9 @@
 - 📐 Degree in Mathematics specialized in Statistics
 - Hobbies outside of analytics:
   <ul>
-    <li>Traveling</li>
-    <li></li>
-    <li></li>
+    <li>Traveling, will be going to Atlanta in the summer! 🛫</li>
+    <li>Language learning, currently learning German 🇩🇪</li>
+    <li>Archery 🏹</li>
   </ul>
 
 <h2 class="heading-element" dir="auto">🛠 Skills</h2>
