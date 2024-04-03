@@ -1,4 +1,4 @@
-👋🏼 Hi, I’m Alejandro, a data analyst from the US.
+👋🏼 Hi, I’m Alejandro, a data nerd from the US.
 
 <h2 class="heading-element" dir="auto">🙋🏽‍♂️ About Me</h2>
 
