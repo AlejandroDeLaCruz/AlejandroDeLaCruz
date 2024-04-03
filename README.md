@@ -8,9 +8,9 @@
 
 <h2 class="heading-element" dir="auto">🛠 Skills</h2>
 
-Programming Languages: SQL (PostgreSQL, SQlite, MySQl) | Python (Pandas, NumPy, Matplotlib) | R (ggplot2, tidyverse)
-Tools: Microsoft Excel | Tableau | Google Looker Studio | Google BigQuery
-Misc: Git
+- Programming Languages: SQL (PostgreSQL, SQlite, MySQl) | Python (Pandas, NumPy, Matplotlib) | R (ggplot2, tidyverse)
+- Tools: Microsoft Excel | Tableau | Google BigQuery
+- Misc: Git
 
 <h2 class="heading-element" dir="auto">📚 Projects</h2>
 
