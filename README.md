@@ -16,7 +16,7 @@
 
 - View my portfolio projects on my website.
 - View my coding projects on Github.
-- View my data vidualizations on Tableau Public.
+- View my data vidualizations on <a href="https://public.tableau.com/app/profile/alejandro.de.la.cruz5286/vizzes" rel="nofollow">Tableau Public</a>.
 
 
 
