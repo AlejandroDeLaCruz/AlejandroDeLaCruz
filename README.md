@@ -15,7 +15,7 @@
 
 - View my portfolio projects on <a href="alejandrodelacruz.carrd.co" rel= "nofollow">my website</a>
 - View my coding projects on <a href="https://github.com/AlejandroDeLaCruz?tab=repositories" rel= "nofollow">Github</a>
-- View my data vidualizations on <a href="https://public.tableau.com/app/profile/alejandro.de.la.cruz5286/vizzes" rel="nofollow">Tableau Public</a>
+- View my data visualizations on <a href="https://public.tableau.com/app/profile/alejandro.de.la.cruz5286/vizzes" rel="nofollow">Tableau Public</a>
 
 <h2 class="heading-element" dir="auto">📫 Connect with Me</h2>
 
