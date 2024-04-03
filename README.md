@@ -2,7 +2,7 @@
 
 <h2 class="heading-element" dir="auto">🙋🏽‍♂️ About Me</h2>
 
-- 📊 I'm currently as a data analyst at Golden Hearts Gaming.
+- 📊 I'm currently looking for opportunities in data analytics
 - 📐 Degree in Mathematics specialized in Statistics.
 
 
