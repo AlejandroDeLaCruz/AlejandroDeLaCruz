@@ -9,6 +9,7 @@
     <li>Traveling, will be going to Atlanta in the summer! 🛫</li>
     <li>Language learning, currently learning German 🇩🇪</li>
     <li>Archery 🏹</li>
+    <li>Billiards 🎱</li>
   </ul>
 
 <h2 class="heading-element" dir="auto">🛠 Skills</h2>
