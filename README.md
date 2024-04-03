@@ -27,6 +27,6 @@ SQL Course Queries
 - Wrote all of the SQL queries in Luke Barousse's free SQL course. (Still in progress) Python Tutorial Code - Produced content (code) for Luke Barousse's free Python for Data Analytics course.
   
 <h2 class="heading-element" dir="auto">📫 Connect with Me</h2>
-Website
+- <a href="https://www.kellyjadams.com/" rel="nofollow">Website</a>
 LinkedIn
 Email
