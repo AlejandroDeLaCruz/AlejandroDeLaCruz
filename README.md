@@ -31,3 +31,5 @@
 <li><a href="https://www.linkedin.com/in/alejandrodelacruz0/" rel="nofollow">LinkedIn</a></li>
 <li><a href="mailto:delacruzalejandro572@gmail.com">Email</a></li>
 </ul>
+
+<img class="h-4 sm:h-6" src="https://komarev.com/ghpvc/?username=AlejandroDeLaCruz;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="fgnsjgl">
