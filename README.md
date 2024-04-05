@@ -32,4 +32,4 @@
 <li><a href="mailto:delacruzalejandro572@gmail.com">Email</a></li>
 </ul>
 
-<img class="h-4 sm:h-6" src="https://komarev.com/ghpvc/?username=alejandrodeLaCruz;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="AlejandroDeLaCruz">
+<img src="https://komarev.com/ghpvc/?username=alejandrodelacruz&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrodelacruz" />
